@@ -1,0 +1,12 @@
+[
+	{
+		"id": 1,
+		"namaproject": "DonateGo",
+		"deskripsi": "Submission Mini Project MSIB Batch 4 Alterra ReactJS",
+		"techstack": ["React", "Tailwind"],
+		"github": "https://github.com/dimasandriano/DonateGo",
+		"deploy": "https://donatego.vercel.app",
+		"img": "https://raw.githubusercontent.com/dimasandriano/DonateGo/main/donatego.webp",
+		"type": "individu"
+	}
+]
