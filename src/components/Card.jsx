@@ -12,8 +12,8 @@ function Card({ namaproject, deskripsi, techstack, github, deploy, img }) {
 							{namaproject}
 						</h3>
 					</header>
-					<p className="text-xs mb-1 dark:text-slate-300">{deskripsi}</p>
-					<div className="flex gap-1">
+					<p className="text-xs mb-2 dark:text-slate-300">{deskripsi}</p>
+					<div className="flex gap-1 mb-2 flex-wrap">
 						{techstack.map((tech, id) => {
 							return (
 								<span

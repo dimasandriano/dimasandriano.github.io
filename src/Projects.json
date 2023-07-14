@@ -2,11 +2,21 @@
 	{
 		"id": 1,
 		"namaproject": "DonateGo",
-		"deskripsi": "Submission Mini Project MSIB Batch 4 Alterra ReactJS",
-		"techstack": ["React", "Tailwind"],
+		"deskripsi": "Submission Mini Project MSIB Batch 4 Alterra ReactJS, merupakan project individu yang dibuat oleh saya sendiri. Project ini dibuat untuk memenuhi syarat kelulusan dari Alterra Academy.",
+		"techstack": ["React", "Tailwind", "Zustand", "React Router", "GraphQL"],
 		"github": "https://github.com/dimasandriano/DonateGo",
 		"deploy": "https://donatego.vercel.app",
 		"img": "https://raw.githubusercontent.com/dimasandriano/DonateGo/main/donatego.webp",
 		"type": "individu"
+	},
+	{
+		"id": 2,
+		"namaproject": "Space Squad",
+		"deskripsi": "Capstone Project MSIB Batch 4 Alterra ReactJS, merupakan project tim yang terdiri dari 5 divisi yaitu UI/UX, Frontend, Backend, Mobile, dan QE. Masing - masing divisi memiliki 5 anggota",
+		"techstack": ["React", "Tailwind", "Zustand", "React Router", "Formik"],
+		"github": "https://github.com/Capstone-Project-Kelompok-15/capstone-frontend",
+		"deploy": "https://capstone-frontend-steel.vercel.app/",
+		"img": "https://i.ibb.co/PmLCyTr/squadspace.webp",
+		"type": "tim"
 	}
 ]
